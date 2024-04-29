@@ -9,9 +9,18 @@ body{
 }
 .cabeçalho {
     background-color: black;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 29px 0;
 }
+
+    .sobre_nos{
+        background-image: linear-gradient(#e47e0a,#e41717)
+        color: rgb(16, 125, 219);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;
+    }
