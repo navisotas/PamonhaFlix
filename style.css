@@ -1,26 +1,8 @@
-*
-{
-    margin: 0%;
-    padding: 0;
+.border{
+    border: 8px solid #f3f3f3;
+    border-top: 8px solid 3498dvb;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+     
 }
-
-body{
-    font-family: sans-serif;
-}
-.cabeçalho {
-    background-color: black;
-    color: rgb(0, 0, 0);
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 29px 0;
-}
-
-    .sobre_nos{
-        background-image: linear-gradient(#e47e0a,#e41717)
-        color: rgb(16, 125, 219);
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        padding: 24px 0;
-    }
